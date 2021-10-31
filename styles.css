@@ -1,1 +1,43 @@
-/* Write your CSS here! */
+
+body {
+   background-color: rgba(16, 134, 212, 0.555);
+   margin: 8px;
+   font-size: 20px;
+}
+li{
+   font-style: italic;
+   text-align: start;
+}
+image {
+   align-items: center;
+   font-size: 8px ;
+}
+footer {
+   text-align: center;
+}
+h1 {
+   color: rgb(206, 48, 48);
+   text-align: center;
+}
+
+h2 {
+   color: green;
+   text-align: center;
+   font-size: 45px;
+}
+a{
+   text-align: center;
+}
+div {
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+} 
+
+section {
+text-align: center;
+}
+
+
+
